@@ -18,9 +18,9 @@ const s3Client = new S3Client({
 export default async function handler(req, res) {
   // CORS
   const allowedOrigins = [
-    'https://xrpmusic.io',
+    'https://musicugc.com',
     'https://www.xrpmusic.io',
-    'https://music-x-three.vercel.app',
+    'https://music-x-khaki.vercel.app/',
     'http://localhost:3000',
     'http://localhost:5500',
   ];

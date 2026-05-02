@@ -7,9 +7,9 @@
 export default async function handler(req, res) {
   // CORS - restrict to your domains
   const allowedOrigins = [
-    'https://xrpmusic.io',
+    'https://musicugc.com',
     'https://www.xrpmusic.io',
-    'https://music-x-three.vercel.app',
+    'music-x-khaki.vercel.app',
     'http://localhost:3000',
     'http://localhost:5500',
     'http://127.0.0.1:5500',

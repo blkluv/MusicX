@@ -23,7 +23,7 @@
  * - Clean UX: no blank tabs, no confusion
  */
 
-const XAMAN_API_KEY = '619aefc9-660a-4120-9e22-e8afd2980c8c';
+const XAMAN_API_KEY = 'f5073b74-f988-4496-8e0e-67133fa18393';
 
 // Session key for this browser tab only
 const SESSION_KEY = 'xrpmusic_session';
